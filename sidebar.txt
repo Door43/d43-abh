@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[abh:home|Door43 (abh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-abh|d43-abh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-abh/archive/master.zip|d43-abh.zip]]
+
+**Recent Changes**
+{{changes>ns = abh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/abh|Ethnologue data]]
+
